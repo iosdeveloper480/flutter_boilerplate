@@ -32,12 +32,12 @@ dependencies:
     sdk: flutter
 
   another_flushbar: ^1.12.29
-  dio: ^5.1.1
+  dio: ^5.4.1
   event_bus: ^2.0.0
   flutter_mobx: ^2.0.6+5
   get_it: ^7.2.0
   google_fonts: ^4.0.3
-  http: ^0.13.5
+  http: ^1.2.1
   intl: ^0.18.0
   json_serializable: ^6.6.1
   material_dialog: ^1.0.0-nullsafety.1
@@ -49,6 +49,23 @@ dependencies:
   validators: ^3.0.0
   xxtea: ^2.1.0
   cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.4
+  bloc: ^8.1.3
+  html: ^0.15.4
+  html_unescape: ^2.0.0
+  hydrated_bloc: ^9.1.4
+  flutter_inappwebview: ^5.8.0
+  url_launcher: ^6.2.5
+  logger: ^2.0.2+1
+  go_router: ^13.2.0
+  share_plus: ^7.2.2
+  equatable: ^2.0.5
+  flutter_secure_storage: ^9.0.0
+  synced_shared_preferences:
+    path: components/synced_shared_preferences
+  flutter_local_notifications: ^16.3.2
+  workmanager: ^0.5.2
+  fast_gbk: ^1.0.0
 
 dev_dependencies:
   flutter_test:
